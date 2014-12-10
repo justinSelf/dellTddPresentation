@@ -1,0 +1,9 @@
+C:\DellTddBanking\Banking.Tests\obj\Debug\Banking.Tests.csprojResolveAssemblyReference.cache
+C:\DellTddBanking\Banking.Tests\bin\Debug\Banking.Tests.dll
+C:\DellTddBanking\Banking.Tests\bin\Debug\Banking.Tests.pdb
+C:\DellTddBanking\Banking.Tests\bin\Debug\DellTddBanking.dll
+C:\DellTddBanking\Banking.Tests\bin\Debug\nunit.framework.dll
+C:\DellTddBanking\Banking.Tests\bin\Debug\DellTddBanking.pdb
+C:\DellTddBanking\Banking.Tests\bin\Debug\nunit.framework.xml
+C:\DellTddBanking\Banking.Tests\obj\Debug\Banking.Tests.dll
+C:\DellTddBanking\Banking.Tests\obj\Debug\Banking.Tests.pdb

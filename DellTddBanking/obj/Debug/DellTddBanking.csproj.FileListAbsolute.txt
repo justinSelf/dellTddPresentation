@@ -1,0 +1,7 @@
+C:\DellTddBanking\DellTddBanking\bin\Debug\DellTddBanking.dll
+C:\DellTddBanking\DellTddBanking\bin\Debug\DellTddBanking.pdb
+C:\DellTddBanking\DellTddBanking\bin\Debug\nunit.framework.dll
+C:\DellTddBanking\DellTddBanking\bin\Debug\nunit.framework.xml
+C:\DellTddBanking\DellTddBanking\obj\Debug\DellTddBanking.csprojResolveAssemblyReference.cache
+C:\DellTddBanking\DellTddBanking\obj\Debug\DellTddBanking.dll
+C:\DellTddBanking\DellTddBanking\obj\Debug\DellTddBanking.pdb

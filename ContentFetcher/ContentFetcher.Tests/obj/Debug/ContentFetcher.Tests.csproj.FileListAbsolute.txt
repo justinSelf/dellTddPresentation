@@ -1,0 +1,13 @@
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\ContentFetcher.Tests.dll
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\ContentFetcher.Tests.pdb
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\ContentFetcher.dll
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\ContentFetcher.pdb
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\obj\Debug\ContentFetcher.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\obj\Debug\ContentFetcher.Tests.dll
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\obj\Debug\ContentFetcher.Tests.pdb
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\ContentFetcher.Tests.dll.config
+C:\Projects\Banking\ContentFetcher\ContentFetcher.Tests\bin\Debug\TechTalk.SpecFlow.dll

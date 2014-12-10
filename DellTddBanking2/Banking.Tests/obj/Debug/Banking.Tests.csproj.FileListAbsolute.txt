@@ -1,0 +1,11 @@
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\Banking.Tests.dll.config
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\Banking.Tests.dll
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\Banking.Tests.pdb
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\DellTddBanking2.dll
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\nunit.framework.dll
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\DellTddBanking2.pdb
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\bin\Debug\nunit.framework.xml
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\obj\Debug\Banking.Tests.csprojResolveAssemblyReference.cache
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\obj\Debug\Banking.Tests.dll
+C:\DellTddBanking\DellTddBanking2\Banking.Tests\obj\Debug\Banking.Tests.pdb

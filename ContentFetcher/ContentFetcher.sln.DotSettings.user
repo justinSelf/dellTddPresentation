@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=092B9C15E04C43B581D2A52296EF3293/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=092B9C15E04C43B581D2A52296EF3293/GroupingIndex/@EntryValue">3</s:Int64>
+	
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=092B9C15E04C43B581D2A52296EF3293/Name/@EntryValue">ServiceProxyShouldOnlyBeCalledOnceIfCacheIsEmpty</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=092B9C15E04C43B581D2A52296EF3293/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="ContentFetcher.Tests.FetcherTests" type="NUnitTestFixtureElement" Project="39738FFB-D94C-42D1-9EE5-CEB897F05009" /&gt;&lt;UnitTestElement Provider="nUnit" Id="ContentFetcher.Tests.FetcherTests.CallingFetchShouldCallTheProxyOnce" ParentId="ContentFetcher.Tests.FetcherTests" type="NUnitTestElement" TypeName="ContentFetcher.Tests.FetcherTests" MethodName="CallingFetchShouldCallTheProxyOnce" Project="39738FFB-D94C-42D1-9EE5-CEB897F05009" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
