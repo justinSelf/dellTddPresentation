@@ -1,5 +1,0 @@
-C:\DellTddBanking\DellTddBanking2\DellTddBanking2\bin\Debug\DellTddBanking2.dll
-C:\DellTddBanking\DellTddBanking2\DellTddBanking2\bin\Debug\DellTddBanking2.pdb
-C:\DellTddBanking\DellTddBanking2\DellTddBanking2\obj\Debug\DellTddBanking2.csprojResolveAssemblyReference.cache
-C:\DellTddBanking\DellTddBanking2\DellTddBanking2\obj\Debug\DellTddBanking2.dll
-C:\DellTddBanking\DellTddBanking2\DellTddBanking2\obj\Debug\DellTddBanking2.pdb

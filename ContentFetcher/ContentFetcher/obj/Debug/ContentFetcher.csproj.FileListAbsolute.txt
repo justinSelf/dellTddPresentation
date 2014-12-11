@@ -1,5 +1,0 @@
-C:\Projects\Banking\ContentFetcher\ContentFetcher\bin\Debug\ContentFetcher.dll
-C:\Projects\Banking\ContentFetcher\ContentFetcher\bin\Debug\ContentFetcher.pdb
-C:\Projects\Banking\ContentFetcher\ContentFetcher\obj\Debug\ContentFetcher.csprojResolveAssemblyReference.cache
-C:\Projects\Banking\ContentFetcher\ContentFetcher\obj\Debug\ContentFetcher.dll
-C:\Projects\Banking\ContentFetcher\ContentFetcher\obj\Debug\ContentFetcher.pdb
